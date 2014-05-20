@@ -18,13 +18,15 @@
 使用e2fsprogs源代码编译
 
 ## libevent_static
-使用2.0.21版本代码编译
+使用2.0.21版本代码编译，没添加对openssl的支持
 
 ## 目录说明
 1. include  
 	头文件路径
 2. lib  
 	静态库文件路径
+3. libevent  
+	libevent的编译脚本及Android.mk
 
 ## 其它
 **如何在ndk中使用静态库可参考jni/Android.mk**
