@@ -32,15 +32,3 @@
 **如何在ndk中使用静态库可参考jni/Android.mk**
 
 *更多文档需参考ndk安装目录下的docs目录*
-
-## 爱心捐助
-
-<form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
-<input name="cmd" value="_xclick" type="hidden">
-<input name="business" value="beckheng@sina.com" type="hidden">
-<input name="item_name" value="3rd-static-libraries-4-android (in USD)" type="hidden">
-<input name="currency_code" value="USD" type="hidden">
-<input name="amount" value="0.99" type="hidden">
-<input src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" name="submit" alt="Donate with PayPal" border="0" type="image">
-</form>
-<img src="https://mobilecodec.alipay.com/show.htm?code=aplyo0r2fwsqs7zxfc&amp;picSize=L" style="height:120px;margin-top:40px;margin-left:30px;" alt="">
